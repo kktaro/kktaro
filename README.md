@@ -10,7 +10,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=6&i=kotlin,dart,rust,ts,androidstudio,gradle,firebase,flutter,docker,gitlab,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=6&i=kotlin,dart,ts,androidstudio,gradle,firebase,flutter" />
 <br>
 
 ## 🏃‍♀️ Activities
